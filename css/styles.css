@@ -1,0 +1,120 @@
+/********
+   Géneralité
+   *********/
+
+
+/********
+   NavBar
+   *********/
+/* header {
+  position: absolute!important;
+  top: 0 !important;
+  left: 0 !important;
+  width:100%;  
+} */
+
+/**********
+ Hi 
+ *************/
+/* #back {
+  /* position: relative; */
+
+.top-left {
+    position:absolute;
+    top: 20%;
+    left: 10%;
+    color: #ebebeb;
+    font-size: 7rem !important;
+  }
+
+  @media screen and ( max-width: 768px ) {
+    .top-left {
+      position: absolute;
+      top: 8%;
+      left: 9%;
+      color: #ebebeb;
+      font-size: 3rem !important;
+    }
+  }
+
+  @media screen and ( max-width: 490px ) {
+    .top-left {
+      position: absolute;
+      top: 8%;
+      left: 6%;
+      color: #ebebeb;
+      font-size: 0.8rem !important;
+    }
+  }
+
+  #hello {
+    border-bottom: 1px solid rgba(22,22,22,0.2) ;
+  }
+
+  a {
+    text-decoration: none;
+    color: #ebebeb;
+  }
+
+  .container-fluid {
+    margin-left: 0 !important;
+
+  }
+ /********
+   Me
+   *********/
+   #Arrière {
+    background-color: #161616;
+   }
+
+   #ana {
+    border-radius: 50%;
+    filter: drop-shadow(0 0 0.75rem rgba(22,22,22,0.5));
+   }
+
+   #competences {
+    background-color:#ebebeb ;
+    
+   }
+
+
+  /********
+   Voir plus 
+   *********/
+
+  .show-hide-para {
+    display: none;
+  }
+
+  .see-more {
+    color: blue;
+  }
+
+  /********
+   Body
+   *********/
+  main {
+    border-top: 1px solid rgba(22,22,22,0.2) ;
+    border-bottom: 1px solid rgba(22,22,22,0.2) ;
+    margin: auto 0;   
+  }
+
+  #xp {
+    background-color: #ebebeb !important;
+  }
+  
+  .lead{
+    font-size: 25px;
+  }
+  #hello p {
+    font-size: 25px;
+  }
+
+  .dev{
+    font-size: 1.32rem;
+  }
+  .copyright p {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 20px;
+  }
